@@ -3,7 +3,7 @@
 |-|
 |**Saha Kuljit Shantanu**(**1905119**)
 **Alina Zaman**(**1905099**)
-Current Project : **Mayesha Rashid**(**1905103**)|
+**Mayesha Rashid**(**1905103**)|
 
 ### Final Review: Blog on "Guiding a Diffusion Model with a Bad Version of Itself"
 
