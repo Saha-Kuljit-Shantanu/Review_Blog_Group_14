@@ -6,6 +6,7 @@
 **Mayesha Rashid**(**1905103**)|
 
 |Group ID|
+|-|
 |6|
 
 ### Final Review: Blog on "Guiding a Diffusion Model with a Bad Version of Itself"
