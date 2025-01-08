@@ -1,5 +1,13 @@
 
+|Group members(ID)|
+|-|
+|**Saha Kuljit Shantanu**(**1905119**)
+**Alina Zaman**(**1905099**)
+Current Project : **Mayesha Rashid**(**1905103**)|
+
 ### Final Review: Blog on "Guiding a Diffusion Model with a Bad Version of Itself"
+
+Author : **Saha Kuljit Shantanu**(**1905119**)
 
 The blog provides an engaging and accessible introduction to NVIDIA's **"Guiding a Diffusion Model with a Bad Version of Itself"**, presenting the key ideas of diffusion models and autoguidance with clarity and simplicity. It effectively explains the forward and reverse processes in diffusion, the mentor-student relationship between high- and low-quality models, and the broader impact of the work. However, certain technical aspects, such as the role of the **guidance weight**, could have been explored in more depth.  
 
